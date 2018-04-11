@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="Y____HMITags20 Log.xml" projectName="D:\TABS\Y____HMITags20.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(1) was not found in worksheet Hmi Tags, row 2, column Connection. 91Y_status(1) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(2) was not found in worksheet Hmi Tags, row 3, column Connection. 91Y_status(2) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(3) was not found in worksheet Hmi Tags, row 4, column Connection. 91Y_status(3) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(4) was not found in worksheet Hmi Tags, row 5, column Connection. 91Y_status(4) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(5) was not found in worksheet Hmi Tags, row 6, column Connection. 91Y_status(5) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(6) was not found in worksheet Hmi Tags, row 7, column Connection. 91Y_status(6) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(7) was not found in worksheet Hmi Tags, row 8, column Connection. 91Y_status(7) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(8) was not found in worksheet Hmi Tags, row 9, column Connection. 91Y_status(8) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(9) was not found in worksheet Hmi Tags, row 10, column Connection. 91Y_status(9) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(10) was not found in worksheet Hmi Tags, row 11, column Connection. 91Y_status(10) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(11) was not found in worksheet Hmi Tags, row 12, column Connection. 91Y_status(11) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(12) was not found in worksheet Hmi Tags, row 13, column Connection. 91Y_status(12) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(13) was not found in worksheet Hmi Tags, row 14, column Connection. 91Y_status(13) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(14) was not found in worksheet Hmi Tags, row 15, column Connection. 91Y_status(14) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(15) was not found in worksheet Hmi Tags, row 16, column Connection. 91Y_status(15) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(16) was not found in worksheet Hmi Tags, row 17, column Connection. 91Y_status(16) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(17) was not found in worksheet Hmi Tags, row 18, column Connection. 91Y_status(17) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(18) was not found in worksheet Hmi Tags, row 19, column Connection. 91Y_status(18) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(19) was not found in worksheet Hmi Tags, row 20, column Connection. 91Y_status(19) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:45 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91Y_status(20) was not found in worksheet Hmi Tags, row 21, column Connection. 91Y_status(20) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="10:46:45 AM">
+    <Message>Import finished: 20 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>

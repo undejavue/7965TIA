@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="A____HMITags Log_4.xml" projectName="D:\TABS\A____HMITags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The empty or invalid row in worksheet Hmi Tags, row 23 is ignored.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The empty or invalid row in worksheet Hmi Tags, row 27 is ignored.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91value_(1) was not found in worksheet Hmi Tags, row 2, column Connection. 91value_(1) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_up_(1) was not found in worksheet Hmi Tags, row 3, column Connection. 91scale_up_(1) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_Down_(1) was not found in worksheet Hmi Tags, row 4, column Connection. 91scale_Down_(1) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91value_(2) was not found in worksheet Hmi Tags, row 5, column Connection. 91value_(2) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_up_(2) was not found in worksheet Hmi Tags, row 6, column Connection. 91scale_up_(2) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_Down_(2) was not found in worksheet Hmi Tags, row 7, column Connection. 91scale_Down_(2) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91value_(3) was not found in worksheet Hmi Tags, row 8, column Connection. 91value_(3) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_up_(3) was not found in worksheet Hmi Tags, row 9, column Connection. 91scale_up_(3) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_Down_(3) was not found in worksheet Hmi Tags, row 10, column Connection. 91scale_Down_(3) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91value_(4) was not found in worksheet Hmi Tags, row 11, column Connection. 91value_(4) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_up_(4) was not found in worksheet Hmi Tags, row 12, column Connection. 91scale_up_(4) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_Down_(4) was not found in worksheet Hmi Tags, row 13, column Connection. 91scale_Down_(4) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91value_(5) was not found in worksheet Hmi Tags, row 14, column Connection. 91value_(5) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_up_(5) was not found in worksheet Hmi Tags, row 15, column Connection. 91scale_up_(5) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="10:46:19 AM">
+    <Message>The value HMI_Connection_1 of HMI tag 91scale_Down_(5) was not found in worksheet Hmi Tags, row 16, column Connection. 91scale_Down_(5) is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="10:46:19 AM">
+    <Message>Import finished: 15 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>

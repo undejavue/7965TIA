@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="M____HMITags Log_1.xml" projectName="D:\TABS\M____HMITags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="11:11:46 AM">
+    <Message>Import finished: 5 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>

@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITags Log_3.xml" projectName="D:\TABS\HMITags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="6:14:31 PM">
+    <Message>The property Coding of HMI tag 94M_Speed(1) in worksheet Hmi Tags, row 7, column Coding is read only and is ignored.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="6:14:31 PM">
+    <Message>Import finished: 16 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>
